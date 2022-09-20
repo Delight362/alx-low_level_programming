@@ -5,7 +5,7 @@
 * @s: input string.
 * Return: length of a string.
 */
-int_strlen(char *5)
+int _strlen(char *5)
 {
 	in count = 0;
 
