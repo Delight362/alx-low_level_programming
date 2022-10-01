@@ -3,7 +3,7 @@
 
 /*
  * File: main.h
- * Auth: Oparaure Uchenna
+ * Auth: Oparaure Delight
  * Desc: Header file containing the prototypes of all functions
  * included in the static library libholberton.a.
  */
