@@ -7,7 +7,7 @@ track at ALX Africa.  I am currently learning C.
 
 ## Author :
 
-* **Nwabueze Franklin (Solo)** <[NwabuezeFranklin](https://github.com/NwabuezeFranklin)>
+* **oparaure Delight (Solo)** <[OparaureDelight](https://github.com/Delight)>
 
 ## Acknowledgements 🌍:
 
